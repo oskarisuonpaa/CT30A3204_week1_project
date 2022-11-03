@@ -1,2 +1,3 @@
-# CT30A3204_week1_project
-Created with CodeSandbox
+# vanilla-template
+
+This is a template for weekly assignments.
